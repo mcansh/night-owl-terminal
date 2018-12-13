@@ -428,7 +428,7 @@
 	AAAAAAAAAAAAAAO9
 	</data>
 	<key>CommandString</key>
-	<string>zsh</string>
+	<string></string>
 	<key>ProfileCurrentVersion</key>
 	<real>2.0600000000000001</real>
 	<key>RunCommandAsShell</key>
